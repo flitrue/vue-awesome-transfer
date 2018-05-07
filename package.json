@@ -1,0 +1,24 @@
+{
+  "name": "vue-awesome-transfer",
+  "version": "1.0.0",
+  "description": "VueJS 2.0 transfer component",
+  "author": "flitrue <812863096@qq.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flitrue/vue-awesome-transfer.git"
+  },
+  "main": "dist/vue-awesome-transfer.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "vue",
+    "transfer",
+    "vuejs-components"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "font-awesome": "^4.7.0"
+  },
+  "dependencies": {}
+}
